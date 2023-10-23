@@ -1,7 +1,7 @@
 #define MAXSIZE 20
 #define OK 1
 #define ERROR 0
-typedef int tatus;
+typedef int Status;
 typedef int ElemType;
 
 typedef struct{
